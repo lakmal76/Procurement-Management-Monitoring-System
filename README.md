@@ -90,4 +90,4 @@ Supports upload and tracking of: bid documents, opening minutes, evaluation shee
 
 ---
 
-*Internal use only — Sri Lanka Police, Information Technology Division*
+*Internal use only —  Information Technology Division*
